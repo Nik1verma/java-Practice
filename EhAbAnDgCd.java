@@ -4,6 +4,7 @@ class EhAbAnDCd {
 	public static void main(String args[]) {
 		Scanner in = new Scanner(System.in);
 		int t = in.nextInt();
+		
 		int i;
 		int[] a = new int[t];
 		for(i=0;i<t;i++) {
