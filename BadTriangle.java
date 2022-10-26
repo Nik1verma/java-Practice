@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 public class BadTriangle {
 
 	public static void main(String args[]) {
